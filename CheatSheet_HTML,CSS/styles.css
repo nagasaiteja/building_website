@@ -1,0 +1,26 @@
+#maintable{
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: Trebuchet MS;
+}
+#maintable td, #maintable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  font-family: Trebuchet MS
+}
+#maintable th {
+  padding-top: 11px;
+  padding-bottom: 11px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
+#maintable tr:nth-child(even){background-color: #f2f2f2;}
+#maintable tr:hover {background-color: #ddd;}
+
+#maintable .a1{
+  font-family: monospace;
+}
+body{
+  background-color:Lavender;
+}
