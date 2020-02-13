@@ -12,10 +12,10 @@
   padding-top: 11px;
   padding-bottom: 11px;
   text-align: left;
-  background-color: #4CAF50;
+  background-color: #004d00;
   color: white;
 }
-#maintable tr:nth-child(even){background-color: #f2f2f2;}
+#maintable tr:nth-child(even){background-color: #8a87a8;}
 #maintable tr:hover {background-color: #ddd;}
 
 #maintable .a1{
